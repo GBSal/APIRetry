@@ -1,0 +1,9 @@
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\bin\Debug\PollyReTry.exe.config
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\bin\Debug\PollyReTry.exe
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\bin\Debug\PollyReTry.pdb
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\obj\Debug\PollyReTry.csprojResolveAssemblyReference.cache
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\obj\Debug\PollyReTry.exe
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\obj\Debug\PollyReTry.pdb
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\bin\Debug\Polly.dll
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\bin\Debug\Polly.pdb
+D:\DeleteMe\ReTry\PollyReTry\PollyReTry\bin\Debug\Polly.xml
